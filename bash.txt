@@ -1,4 +1,2 @@
+bash
 bash <(wget -qO- https://gist.githubusercontent.com/ging-dev/af5ebf7277d02564014ebba59863dd43/raw/0895f246e0bcaa44ea00105379a2415f3a226d1c/gnome.sh)
-
-
-DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AX4XfWi9B1M6ahFMWjZomXxcs96h6bQBB3J_iZCCBcFm9jsB2ZwQ6FF1JMg9Fr_Pa-CHHA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
