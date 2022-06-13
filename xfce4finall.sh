@@ -19,4 +19,4 @@ bash <(wget -qO- https://gist.githubusercontent.com/ging-dev/af5ebf7277d02564014
 
 
 
-DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AX4XfWjUdeVdAQAQDknhvNdcWwqIT5AVh1251LdQImJtLHZs95f0gAcFAmFf2F5BRIPFAA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AX4XfWjUdeVdAQAQDknhvNdcWwqIT5AVh1251LdQImJtLHZs95f0gAcFAmFf2F5BRIPFAA" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname) --user-name=xaudios
