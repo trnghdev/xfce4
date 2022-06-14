@@ -15,7 +15,7 @@ sudo dpkg -i rclone-v1.56.1-linux-amd64.deb > /dev/null 2>&1
 sudo apt install xfce4 -y > /dev/null 2>&1
 
 
-bash <(wget -qO- https://gist.githubusercontent.com/ging-dev/af5ebf7277d02564014ebba59863dd43/raw/0895f246e0bcaa44ea00105379a2415f3a226d1c/gnome.sh)
+bash <(wget -qO- https://gist.githubusercontent.com/ging-dev/caaa8654a81cc11d1798d13e15fab4ce/raw/d4aa5ac623e3212d394f9fafa352560ddcc397f1/xfce4.sh)
 
 
 
